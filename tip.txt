@@ -1,0 +1,1 @@
+./scripts/diffconfig.sh > diffconfig
